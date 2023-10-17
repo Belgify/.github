@@ -14,7 +14,14 @@
    * SQL
 3. Frontend
    * NextJs v13 (server & client components) (typescript)
-   * 
+     * CMS
+     * E-shop
+4. Platforms
+   * Shopify
+   * Stripe
+   * Firebase
+   * Google Analytics
+   * DigitalOcean
 
 ## Workflow
 ------------
